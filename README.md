@@ -1,6 +1,6 @@
 # Weather App
 
-A simple and interactive Weather App that provides real-time weather information based on user location or city search. The application uses the OpenWeatherMap API to fetch weather data and displays various parameters such as temperature, wind speed, humidity, and cloudiness.
+A simple and interactive Weather App that provides real-time weather information based on user location or city search. The application uses the OpenWeatherMap API to fetch weather data and displays various parameters such as temperature, wind speed, humidity, and cloudiness..
 
 ## Demo
 
